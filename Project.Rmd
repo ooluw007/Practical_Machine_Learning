@@ -3,7 +3,7 @@ title: "Peer-graded Assignment: Prediction Assignment Writeup"
 author: "Olusanya Oluwole"
 date: "1/22/2021"
 output: 
-  html_document:
+  pdf_document:
     toc: true
 ---
 
